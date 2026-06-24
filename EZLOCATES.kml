@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>EZEE Fiber Locates</name>
+    <NetworkLink>
+      <name>Blackstone Utilities EZEE Locates</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1XZaIHxPVkRBADX8UQWG3OLjq3A5vaCs&lid=dhNgv0DlAaA]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
